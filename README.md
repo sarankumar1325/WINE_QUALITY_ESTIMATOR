@@ -1,3 +1,3 @@
-# WineQuality-
+# WineQualityEstimator
 
 WineGrade Estimator represents a significant leap forward in predicting wine quality through advanced Machine Learning techniques. With a focus on addressing class imbalance and leveraging powerful algorithms, we've created a robust model that delivers accurate results. Our specialized classification report tailored for the wine industry provides valuable insights, empowering individuals and businesses to make informed decisions in the dynamic world of oenology. WineGrade Estimator sets a new standard for precise wine quality predictions, making it an indispensable tool in navigating the complexities of the wine market.![Uploading image.png…]()
